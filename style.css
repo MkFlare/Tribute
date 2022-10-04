@@ -1,0 +1,54 @@
+
+body
+{
+    font-size: 35px;
+    margin: 0 auto;
+    font-weight: bold;
+    font-family:Brush Script MT ;
+    text-align: center;
+    background-color: darkred;
+}
+
+h2{
+font-size: 20px;
+text-align: center;
+font-family: Arial;
+}
+
+h3{
+font-size: 40px;
+text-align: center;
+font-family: Brush Script MT;
+font-weight: bold;
+}
+
+h4{
+font-size: 20px;
+text-align: center;
+font-family: Arial;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 550px;
+    height: 500px;
+    border-radius: 60%;
+    
+
+}
+
+li{
+text-align: left;
+
+}
+
+#bib {
+    font-family: Times New Roman;
+
+}
+
+
+div {
+
+}
